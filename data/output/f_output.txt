@@ -1,0 +1,1 @@
+{"similarity_score": 98.87, "match": true, "message": "Image matches"}
