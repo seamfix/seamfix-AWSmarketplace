@@ -1,0 +1,1 @@
+{"Code":-1,"Metric Result":null,"Status":"No face found in image"}
