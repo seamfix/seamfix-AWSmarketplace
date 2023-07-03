@@ -15,4 +15,5 @@
 "FaceShadowDetection":{"score":0.10017,"status":"Pass","reason":"Score is within the stipulated thresholds"},
 "FaceSharpnessDetection":{"score":0.254774,"status":"Fail","reason":"Score is higher than the max threshold"},
 "HatDetection":{"score":0.062994,"status":"Pass","reason":"Score is lower than the threshold"},
-"BackgroundClutter":{"score":"RED","status":"Pass","reason":"Plain Background"}},"Status":"Successful"}
+"BackgroundClutter":{"score":"RED","status":"Pass","reason":"Plain Background"}},
+"Status":"Successful"}
