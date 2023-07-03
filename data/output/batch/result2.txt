@@ -1,1 +1,18 @@
-{"Code":0,"Metric Result":{"FaceAlign":{"score":0.899281,"status":"Fail","reason":"Score is higher than the max threshold"},"EstimatePose":{"score":{"yaw":5.031853,"roll":13.039094,"pitch":12.605162},"status":"Fail","reason":"Roll value is higher than the roll threshold"},"BlurDetection":{"score":0.000008,"status":"Pass","reason":"Score is lower than the threshold"},"ShoulderScore":{"score":44.0,"status":"Pass","reason":"Score is within the stipulated thresholds"},"ShadowScore":{"score":0.054528,"status":"Pass","reason":"Score is within the stipulated thresholds"},"ImageHeighttoFace":{"score":2.955307,"status":"Fail","reason":"Score is higher than the max threshold"},"HeadinFrame":{"score":"TRUE","status":"Pass","reason":"Head is within the frame"},"FocusBlurDetection":{"score":0.315331,"status":"Fail","reason":"Score is higher than the max threshold"},"FaceBrightnessDetection":{"score":0.516134,"status":"Pass","reason":"Score is within the stipulated thresholds"},"GlassesDetection":{"score":0.999474,"status":"Fail","reason":"Score is higher than the threshold"},"FaceContrast":{"score":12.559026,"status":"Fail","reason":"Score is higher than the max threshold"},"ImageDimension":{"score":529.0,"status":"Fail","reason":"Height and width are not same as threshold"},"FaceShadowDetection":{"score":0.10017,"status":"Pass","reason":"Score is within the stipulated thresholds"},"FaceSharpnessDetection":{"score":0.254774,"status":"Fail","reason":"Score is higher than the max threshold"},"HatDetection":{"score":0.062994,"status":"Pass","reason":"Score is lower than the threshold"},"BackgroundClutter":{"score":"RED","status":"Pass","reason":"Plain Background"}},"Status":"Successful"}
+{"Code":0,
+"Metric Result":
+{"FaceAlign":{"score":0.899281,"status":"Fail","reason":"Score is higher than the max threshold"},
+"EstimatePose":{"score":{"yaw":5.031853,"roll":13.039094,"pitch":12.605162},"status":"Fail","reason":"Roll value is higher than the roll threshold"},
+"BlurDetection":{"score":0.000008,"status":"Pass","reason":"Score is lower than the threshold"},
+"ShoulderScore":{"score":44.0,"status":"Pass","reason":"Score is within the stipulated thresholds"},
+"ShadowScore":{"score":0.054528,"status":"Pass","reason":"Score is within the stipulated thresholds"},
+"ImageHeighttoFace":{"score":2.955307,"status":"Fail","reason":"Score is higher than the max threshold"},
+"HeadinFrame":{"score":"TRUE","status":"Pass","reason":"Head is within the frame"},
+"FocusBlurDetection":{"score":0.315331,"status":"Fail","reason":"Score is higher than the max threshold"},
+"FaceBrightnessDetection":{"score":0.516134,"status":"Pass","reason":"Score is within the stipulated thresholds"},
+"GlassesDetection":{"score":0.999474,"status":"Fail","reason":"Score is higher than the threshold"},
+"FaceContrast":{"score":12.559026,"status":"Fail","reason":"Score is higher than the max threshold"},
+"ImageDimension":{"score":529.0,"status":"Fail","reason":"Height and width are not same as threshold"},
+"FaceShadowDetection":{"score":0.10017,"status":"Pass","reason":"Score is within the stipulated thresholds"},
+"FaceSharpnessDetection":{"score":0.254774,"status":"Fail","reason":"Score is higher than the max threshold"},
+"HatDetection":{"score":0.062994,"status":"Pass","reason":"Score is lower than the threshold"},
+"BackgroundClutter":{"score":"RED","status":"Pass","reason":"Plain Background"}},"Status":"Successful"}
