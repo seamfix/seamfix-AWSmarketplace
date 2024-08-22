@@ -1,1 +1,1 @@
-{"code": 200, "desciprition": " Success", "live_score": 0.169, "pop_score": 99.831, "result": "Image not live"}
+{"code": 200, "description": " Success", "live_score": 0.169, "pop_score": 99.831, "result": "Image not live"}
